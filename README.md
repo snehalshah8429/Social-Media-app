@@ -27,7 +27,7 @@ This project is a social media platform built using the MERN stack (MongoDB, Exp
 <br>
 **Database :** MongoDB, Mongoose <br>
 <br>
-**Hosting :** Deployed on vercel <br>
+**Hosting :** Deployed on vercel  https://sociopedia-for-sociopaths.netlify.app/<br>
 <br>
 **Real-Time Features :** Socket.IO for real-time updates <br>
 <br>
