@@ -20,6 +20,7 @@ This project is a social media platform built using the MERN stack (MongoDB, Exp
 <br>
 
 **Tech Stack** <br>
+<br>
 **Frontend :** React, Redux, CSS (or Styled Components) <br>
 <br>
 **Backend :** Node.js, Express <br>
