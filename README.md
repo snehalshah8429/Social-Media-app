@@ -66,7 +66,10 @@ Open your browser and navigate to http://localhost:3000.<br>
 <img width="1470" alt="Home Page" src="https://github.com/user-attachments/assets/9ff4a4b3-b644-4f8e-908a-03c166b52795">
 <br>
 <br>
+
 ![sample final](https://github.com/user-attachments/assets/350bcd3d-f163-4a21-8a33-39856253417c)
+
 <br>
 <br>
+
 <img width="1470" alt="Screenshot 2024-09-03 at 7 55 48 PM" src="https://github.com/user-attachments/assets/59369f96-3d5e-4b8b-a7f9-f691cae83bc2">
