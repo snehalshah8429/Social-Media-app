@@ -58,3 +58,7 @@ This project is a social media platform built using the MERN stack (MongoDB, Exp
     npm start
 <br>
 Access the app: Open your browser and navigate to http://localhost:3000.
+
+**SCREENSHOTS**
+![Home Page](file:///Users/snehalkumar8429/Documents/GitHub/MeetSphere-Project/relevant%20photos.png)
+
