@@ -1,7 +1,7 @@
 This project is a social media platform built using the MERN stack (MongoDB, Express, React, Node.js). The app allows users to connect, share posts, comment, and interact with each other in a seamless environment.
 <br>
-
-**FEATURES** <br>
+<br>
+**FEATURES** 
 
 **User Authentication :** Secure sign-up and login functionality using JWT tokens. <br>
 
@@ -19,8 +19,9 @@ This project is a social media platform built using the MERN stack (MongoDB, Exp
 
 **Dark Mode :** Toggle between light and dark themes. <br>
 
+<br>
 
-**TECH STACK** <br>
+**TECH STACK** 
 
 **Frontend :** React, Redux, CSS (or Styled Components) <br>
 
@@ -33,7 +34,8 @@ This project is a social media platform built using the MERN stack (MongoDB, Exp
 **Real-Time Features :** Socket.IO for real-time updates <br>
 
 <br>
-**INSTALLATION** <br>
+
+**INSTALLATION**
 
 **Clone the repository:** <br>
 git clone https://github.com/snehalshah8429/social-media-app.git cd social-media-app <br>
