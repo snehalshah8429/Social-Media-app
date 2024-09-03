@@ -57,4 +57,10 @@ cd ../frontend npm start <br>
 
 
 **Access the app:** <br>
-Open your browser and navigate to http://localhost:3000.
+Open your browser and navigate to http://localhost:3000.<br>
+<br>
+<br>
+
+**RELEVANT IMAGES** <br>
+
+<img width="1470" alt="Home Page" src="https://github.com/user-attachments/assets/9ff4a4b3-b644-4f8e-908a-03c166b52795">
